@@ -1,2 +1,2 @@
-# Responsive-page
+# GITHUB PAGES
 A responsive page.
