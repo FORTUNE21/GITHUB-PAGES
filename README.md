@@ -1,2 +1,2 @@
-# GITHUB PAGES
+# Responsive-psge
 A responsive page.
